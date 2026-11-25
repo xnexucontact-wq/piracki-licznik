@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xnexucontact-wq.github.io/piracki-licznik/sitemap.xml
